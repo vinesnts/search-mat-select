@@ -14,6 +14,12 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
+    "paths": {
+      "search-mat-select": [
+        "dist/search-mat-select/search-mat-select",
+        "dist/search-mat-select"
+      ]
+    },
     "target": "es2017",
     "module": "es2020",
     "lib": [
