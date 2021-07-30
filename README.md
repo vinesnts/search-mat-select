@@ -43,7 +43,7 @@ The source code is avaliable on [Github](https://github.com/vinesnts/search-mat-
     Use the data binding attribute `[showSelectAll]` to enable showing the option.
       * `[showSelectAll]="true"`
       * `[showSelectAll]="false"`
-      * Use the atribute `filterLabel.` to set Select All checkbox label
+      * Use the atribute `filterLabel` to set Select All checkbox label
   
   * ## choose between a one option or multiple selector
     Use the data binding attribute `[selectMultiple]` to switch between one option only or multiple selector.
