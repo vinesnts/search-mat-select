@@ -3,7 +3,7 @@
 This is a component made on top of the [Mat Select](https://material.angular.io/components/select/overview) component of the [Material Angular](https://material.angular.io/) library.
 The SearchMatSelect features a search box to find the avaliable options and a select all option, it as well offers keybord navigation for accessibility.
 
-The source code is avaliable on [Github](https://github.com/vinesnts/search-mat-select) and a demo is avaliable [here](https://viniciusalmeida.dev/search-select-mat-input-angular).
+The source code is avaliable on [Github](https://github.com/vinesnts/search-mat-select) and a demo is avaliable [here](http://viniciusalmeida.dev/search-mat-select-demo/).
 
 ## 1. How to...
   * ## import to your project</h2>
