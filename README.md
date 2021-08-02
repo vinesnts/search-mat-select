@@ -1,6 +1,6 @@
 # SearchMatSelect
 
-[![Travis-CI build status](https://travis-ci.com/vinesnts/search-mat-select.svg)](https://github.com/vinesnts/search-mat-select)
+[![Travis-CI build status](https://travis-ci.com/vinesnts/search-mat-select.svg?branch=master)](https://github.com/vinesnts/search-mat-select)
 [![Total npm downloads](https://img.shields.io/npm/dt/search-mat-select)](https://www.npmjs.com/package/search-mat-select)
 
 This is a component made on top of the [Mat Select](https://material.angular.io/components/select/overview) component of the [Material Angular](https://material.angular.io/) library.
